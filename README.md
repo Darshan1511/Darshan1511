@@ -7,14 +7,15 @@
 </p>
 
 - 🔭 I’m currently working at **CHPL Company**  
-- 🌱 I’m currently learning and building with **HTML, CSS, Bootstrap, jQuery, PHP, MySQL, and Python**   
+- 🌱 I’m currently learning and building with **HTML, CSS, Bootstrap, jQuery, PHP, MySQL, and Python**
+- 📫 How to reach me: **dsvasoya2002@gmail.com**
 - 💬 Ask me about **Web Development & PHP Projects**  
 
 ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/darshan-vasoya-8a3761205" target="blank">
+  <a href="www.linkedin.com/in/darshan-vasoya" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Darshan Vasoya" height="30" width="40" />
   </a>
   <a href="https://instagram.com/darshan_vasoya_1511" target="blank">

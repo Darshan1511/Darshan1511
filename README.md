@@ -5,17 +5,14 @@
 <table>
 <tr>
 <td width="60%">
-
+  
 ### 👨‍💻 About Me
 
-- 🔭 Currently working at **Communities Heritage Pvt. Ltd. (CHPL)**  
-- 💼 Previous intern at **Webknight Infosystems**  
-- 🎓 Final-year student, **B.E. in IT at U.V. Patel College of Engineering**  
-- 🌱 Learning: **Laravel, JavaScript, MySQL, PHP, UI/UX Design**  
-- 💬 Ask me about **Web Development, Real-time apps, and UI Design**  
+- 🔭 Currently working at **CHPL Company**  
+- 🌱 Learning **Laravel, JavaScript, PHP, MySQL, Bootstrap**  
+- 💬 Ask me about **Web Development, PHP Projects & UI Design**  
 - 📫 Email: [dsvasoya2002@gmail.com](mailto:dsvasoya2002@gmail.com)  
-- 📱 Phone: +91 9925177657  
-- 📍 Location: Ahmedabad, India
+- 📱 Phone: +91 9925177657
 
 </td>
 <td align="center">
@@ -39,59 +36,36 @@
   <a href="https://instagram.com/darshan_vasoya_1511" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://github.com/Darshan1511" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
-  </a>
 </p>
 
 ---
 
-### 🛠️ Skills & Tools
+### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jQuery" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jQuery" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
 </p>
 
 ---
 
-### 🚀 Projects
+### 🚀 Project Showcase
 
-- 🔹 **Cafe Management Website**  
-  Tech: PHP, MySQL, HTML, CSS, JavaScript  
-  ➤ Role-based access, invoice generation, and booking UI.
-
-- 🔹 **Food Management Website**  
-  Tech: HTML, CSS, jQuery, AJAX, PHP, MySQL  
-  ➤ Real-time updates, location detection, responsive UI.
-
-- 🔹 **Car-Rental Website**  
-  Tech: HTML, CSS, JavaScript, PHP, MySQL  
-  ➤ Secure payments, car listings, online booking for families.
-
----
-
-### 🎓 Education
-
-- 🎓 **B.E. in Information Technology**  
-  U.V. Patel College of Engineering, Ganpat University  
-  📍 Mahesana, Gujarat | 🗓️ 2021 – 2024 | CGPA: **7.27**
-
-- 🎓 **Higher Secondary School Certificate**  
-  Sarthak Vidhyalaya, Ahmedabad  
-  🗓️ 2019 – 2020 | 📊 Percentage: **50%**
+- 🔹 [Car-Rental System (PHP + MySQL)](https://github.com/Darshan1511/project-inventory-management)  
+- 🔹 [E-Insurance Management System (HTML + CSS + JQUERY + AJAX + PHP)](https://github.com/Darshan1511/project-expense-tracker)  
+- 🔹 [Cafe Management Website (PHP + MySQL)](https://github.com/Darshan1511/project-portfolio-site)  
+- 🔹 [Food Management Website (PHP + MySQL)](https://github.com/Darshan1511/project-portfolio-site)  
+- 🔹 [Online Food Application (PHP (API) + MySQL)](https://github.com/Darshan1511/project-portfolio-site)  
 
 ---
 
@@ -108,25 +82,3 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Darshan1511&theme=radical" alt="GitHub Streak" />
 </p>
-
----
-
-### 🏆 Certificates
-
-- ✅ Android Developer  
-- ✅ HTML  
-- ✅ PHP
-
----
-
-### 🌐 Languages
-
-- 🗣️ Gujarati – Native  
-- 🗣️ Hindi – Full Professional  
-- 🗣️ English – Professional Working
-
----
-
-### 🎯 Interests
-
-🎮 Gaming &nbsp;&nbsp; 🎧 Music &nbsp;&nbsp; ✈️ Travel  

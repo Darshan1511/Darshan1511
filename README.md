@@ -1,11 +1,6 @@
 <p align="center">
-  <img width="900" src="https://capsule-render.vercel.app/api?type=waving&color=012D3A&height=250&section=header&text=Darshan%20Vasoya&fontColor=ffffff&fontSize=45&fontAlignY=35&desc=Web%20Developer%20from%20India%20🇮🇳&descAlignY=60&descAlign=50&descFontColor=ffffff" alt="Darshan Vasoya Banner" />
+  <img width="900" src="https://capsule-render.vercel.app/api?type=waving&color=012D3A&height=300&section=header&text=Darshan%20Vasoya&fontColor=ffffff&fontSize=60&fontAlignY=35&desc=Web%20Developer%20from%20India%20🇮🇳&descAlignY=60&descAlign=50&descFontColor=ffffff" alt="Darshan Vasoya Banner" />
 </p>
-
-
-
-<h1 align="center">Hi 👋, I'm Darshan Vasoya</h1>
-<h3 align="center">A Passionate Web Developer from India 🇮🇳</h3>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
 

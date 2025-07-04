@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=012D3A&width=300&height=250&section=header&text=Darshan%20Vasoya&fontColor=ffffff&fontSize=45&fontAlignY=35&desc=Web%20Developer%20from%20India%20🇮🇳&descAlignY=60&descAlign=50&descFontColor=ffffff" alt="Darshan Vasoya Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=012D3A&width=500&height=250&section=header&text=Darshan%20Vasoya&fontColor=ffffff&fontSize=45&fontAlignY=35&desc=Web%20Developer%20from%20India%20🇮🇳&descAlignY=60&descAlign=50&descFontColor=ffffff" alt="Darshan Vasoya Banner" />
 </p>
 
 <table>

@@ -7,8 +7,7 @@
 </p>
 
 - 🔭 I’m currently working at **CHPL Company**  
-- 🌱 I’m currently learning and building with **HTML, CSS, Bootstrap, jQuery, PHP, MySQL, and Python**  
-- 📫 How to reach me: **dsvasoya2002@gmail.com** | 📞 9925177657  
+- 🌱 I’m currently learning and building with **HTML, CSS, Bootstrap, jQuery, PHP, MySQL, and Python**   
 - 💬 Ask me about **Web Development & PHP Projects**  
 
 ---

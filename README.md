@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=012D3A&height=200&section=header&text=Darshan%20Vasoya&fontColor=ffffff&fontSize=40&fontAlignY=35&desc=Web%20Developer%20from%20India%20🇮🇳&descAlignY=60&descAlign=50&descFontColor=ffffff" alt="Darshan Vasoya Banner" />
+  <img width="900" src="https://capsule-render.vercel.app/api?type=waving&color=012D3A&height=250&section=header&text=Darshan%20Vasoya&fontColor=ffffff&fontSize=45&fontAlignY=35&desc=Web%20Developer%20from%20India%20🇮🇳&descAlignY=60&descAlign=50&descFontColor=ffffff" alt="Darshan Vasoya Banner" />
 </p>
+
 
 
 <h1 align="center">Hi 👋, I'm Darshan Vasoya</h1>

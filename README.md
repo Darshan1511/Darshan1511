@@ -8,10 +8,9 @@
 </p>
 
 - 🔭 I’m currently working at **CHPL Company**  
-- 🌱 Currently learning and building with **AJAX, JavaScript, PHP, MySQL, Bootstrap**  
+- 🌱 I'm currently learning  **AJAX, JavaScript, PHP, MySQL, Bootstrap**  
 - 💬 Ask me about **Web Development, Real-time Apps & PHP Projects**  
-- 📫 Email me at **dsvasoya2002@gmail.com**  
-- 📱 Call me at **+91 9925177657**
+- 📫 Email me at **dsvasoya2002@gmail.com**
 
 ---
 

@@ -8,11 +8,11 @@
   <img src="https://komarev.com/ghpvc/?username=Darshan1511&label=Profile%20views&color=0e75b6&style=flat" alt="Darshan1511" />
 </p>
 
-- 🔭 I’m currently working at **CHPL Company**  
+- 🔭 I’m currently working at **Communities Heritage Private Limited Company**  
 - 🌱 Learning and building with **Laravel, JavaScript, PHP, MySQL, Bootstrap**  
 - 💬 Ask me about **Web Development, Laravel, PHP Projects & UI Design**  
 - 📫 Email me: **dsvasoya2002@gmail.com**  
-- 📱 Phone: **+91 9925177657**
+
 
 ---
 
